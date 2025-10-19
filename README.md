@@ -13,12 +13,12 @@ As a tech enthusiast, I prefer to use my phone rather than going to a ticket cou
 
 This incident inspired me to create a solution using Python, PostgreSQL, and ReactJS—of course, with a little help from my brain.
 
-Check out live project from here: [hyderabadmetro](https://hydmetro.vercel.app/)
+Check out live project from here: [hyderabadmetro](https://hydmetroit.vercel.app/)
 
 
 #### Live Web
 
-- [Hyderabadmetro](https://hyderabadmetro.vercel.app/)
+- [Hyderabadmetro](https://hydmetroit.vercel.app/)
 
 #### Documentation
 
